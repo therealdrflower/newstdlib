@@ -1,5 +1,6 @@
 # newstdlib
 A custom standard library for C++
+I made this in a restraunt so I don't recommend using it (The restraunt did nothing wrong, just it was quickly made)
 
 ### Documentation:
 printstr("text") - Prints to console/terminal<br/>
